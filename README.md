@@ -5,5 +5,5 @@ Resources for Week 7: Version Control and Reproducibility
 
 
 #### Files
-template.html - file used in mini-lecture 2.13: Branches in git
+template.html - file used in mini-lecture _2.13: Branches in git_
 
